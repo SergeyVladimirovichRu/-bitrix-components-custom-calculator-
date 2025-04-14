@@ -30,12 +30,3 @@ cd bitrix-calculator-component
         "CALCULATOR_TYPE" => "loan"
     )
 );?>
-
-
-## 4. Публикация и настройка
-
-1. Закоммитьте и запушьте изменения:
-   ```bash
-   git add .
-   git commit -m "Initial commit with calculator component"
-   git push origin main
